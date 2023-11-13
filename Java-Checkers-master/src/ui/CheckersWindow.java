@@ -26,10 +26,10 @@ public class CheckersWindow extends JFrame {
 	private static final long serialVersionUID = 8782122389400590079L;
 	
 	/** The default width for the checkers window. */
-	public static final int DEFAULT_WIDTH = 500;
+	public static final int DEFAULT_WIDTH = 1280;
 	
 	/** The default height for the checkers window. */
-	public static final int DEFAULT_HEIGHT = 600;
+	public static final int DEFAULT_HEIGHT = 800;
 	
 	/** The default title for the checkers window. */
 	public static final String DEFAULT_TITLE = "Java Checkers";
